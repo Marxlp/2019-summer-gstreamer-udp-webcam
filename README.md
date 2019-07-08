@@ -6,7 +6,7 @@
 参考[https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c](https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
 
 ## Commmand Lines
-1 首先连接到 AirZen 的Access Point, 密码：testzed000
+1 首先设置电脑地址为192.168.2.1 的静态IP，并连接到 AirZen 的Access Point, 密码：testzed000
 
 2 然后通过 ssh 连接到 companion computer ， 密码 nvidia
 
