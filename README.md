@@ -26,3 +26,6 @@ Windows
 Linux
 
 > ./accept_data.sh
+
+## Some Instructions
+see [docs](./docs)
